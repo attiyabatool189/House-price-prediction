@@ -1,0 +1,6 @@
+,Default settings – mean RMSE ($),Tuned (nested CV) – mean RMSE ($),Improvement ($)
+AdaBoost,"$31,656","$30,940",$716
+Elastic Net,"$80,302","$26,553","$53,749"
+Lasso,"$80,302","$27,007","$53,295"
+Ridge,"$26,654","$26,980",$-325
+SVR,"$30,275","$25,770","$4,506"

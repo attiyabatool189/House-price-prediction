@@ -1,0 +1,7 @@
+,Rank,Mean RMSE ($),Std RMSE ($),Best Fold RMSE ($),Worst Fold RMSE ($),RMSE as % of Avg Price,Mean MAE ($),Mean MSE ($²),Mean R²,Std R²,Mean RMSLE,Time (s)
+Algorithm,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1,Unnamed: 5_level_1,Unnamed: 6_level_1,Unnamed: 7_level_1,Unnamed: 8_level_1,Unnamed: 9_level_1,Unnamed: 10_level_1,Unnamed: 11_level_1,Unnamed: 12_level_1
+SVR,1,"$25,770","$8,888","$14,904","$40,589",14.2%,"$13,633",735200000.0,0.881,0.089,0.1191,245
+Elastic Net,2,"$26,553","$6,844","$18,628","$35,479",14.7%,"$14,911",747200000.0,0.883,0.053,0.1206,76
+Ridge,3,"$26,980","$7,332","$18,352","$38,208",14.9%,"$15,041",776300000.0,0.877,0.064,0.1222,22
+Lasso,4,"$27,007","$7,036","$18,995","$37,017",14.9%,"$15,068",773900000.0,0.878,0.058,0.1216,20
+AdaBoost,5,"$30,940","$5,621","$22,080","$40,133",17.1%,"$19,990",985700000.0,0.841,0.061,0.1504,244

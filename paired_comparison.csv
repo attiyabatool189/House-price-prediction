@@ -1,0 +1,6 @@
+,Mean RMSE difference ($),Folds won by SVR,Paired t-test p-value,Clear difference (p < 0.05)?
+Compared with,Unnamed: 1_level_1,Unnamed: 2_level_1,Unnamed: 3_level_1,Unnamed: 4_level_1
+Elastic Net,$783,8 of 10,0.533,No - practically tied
+Ridge,"$1,210",8 of 10,0.205,No - practically tied
+Lasso,"$1,237",8 of 10,0.295,No - practically tied
+AdaBoost,"$5,170",9 of 10,0.027,Yes
